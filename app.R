@@ -3,6 +3,7 @@ library(bs4Dash)
 library(waiter)
 library(shinyjs)
 
+# ui----
 
 ui <- dashboardPage(
     title = "Basic Dashboard",
